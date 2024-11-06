@@ -1,2 +1,0 @@
-# EEE250
-LAB MODULE 3
